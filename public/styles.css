@@ -11,7 +11,10 @@ body {
   text-align: center;
   font-size: 130%;
 }
-
+p{
+  font-size: 15px;
+  color: #8a8a8a;
+}
 .container {
   width: 100%;
   height: auto;

@@ -23,6 +23,7 @@ function App() {
         <h1>To-Do List</h1>
       </div>
       <InputArea onAdd={addItem} />
+      <p>(click on item to delete)</p>
       <div>
         <ul>
           {items.map((item, index) => (
